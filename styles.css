@@ -1,0 +1,26 @@
+body{
+    background-color: #ffffff;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 1rem;
+}
+
+.header .header_bar{
+    width: 1px;
+    height: 15px;
+    background-color: black;
+}
+
+.header .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
