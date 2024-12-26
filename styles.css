@@ -25,3 +25,19 @@ body{
     gap: 1rem;
   }
 
+  main {
+    padding: 2rem;
+}
+
+.banner_img{
+    width: 100%;
+    height: auto;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+    pad: 10px;
+  }
+  
